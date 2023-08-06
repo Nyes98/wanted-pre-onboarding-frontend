@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# 프론트엔드 | 프리온보딩 인턴십 8월 사전 과제
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
