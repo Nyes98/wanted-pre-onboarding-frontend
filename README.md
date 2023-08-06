@@ -16,7 +16,7 @@ $git clone https://github.com/Nyes98/wanted-pre-onboarding-frontend
 
 ```
 npm install
-npm run dev
+npm start
 ```
 
 ### `데모 영상`
